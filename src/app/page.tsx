@@ -1,13 +1,18 @@
 import Image from "next/image";
 import Link from "next/link";
+import React from "react";
 
 export default function Home() {
   return (
-    <div>
+   <body>
+    <div >
 
-      <p className="pb-12">Velkommen til GoblinHut</p>
-      <Link href="/hut">KomTilHut</Link>
+      <h1 className="header">GoblinHut</h1>
+      <Link href="/hut" className="link">The Hut</Link>
+      
+      
     </div>
-
+  </body>
   );
 }
+ 

@@ -1,12 +1,7 @@
 export function Header() {
     return (
-        <>
-            <ul>
-                <li>Barbarian</li>
-                <li>ArcherQueen</li>
-                <li>Goblin</li>
-
-            </ul>
+          <>  
+        <h1>Hello world</h1>
         </>
     )
 }

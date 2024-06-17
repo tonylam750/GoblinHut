@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+main {
+    background-image: url("https://gtwallpaper.org/sites/default/files/wallpaper/245590/clash-royale-blue-background-245590-1485443-8437170.png");
+    background-repeat: repeat;
+    background-size: 600px;
+    }
